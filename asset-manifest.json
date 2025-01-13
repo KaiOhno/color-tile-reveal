@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/color-tile-reveal/static/css/main.44107bd6.css",
+    "main.js": "/color-tile-reveal/static/js/main.681d486b.js",
+    "static/js/488.63a46b76.chunk.js": "/color-tile-reveal/static/js/488.63a46b76.chunk.js",
+    "index.html": "/color-tile-reveal/index.html",
+    "main.44107bd6.css.map": "/color-tile-reveal/static/css/main.44107bd6.css.map",
+    "main.681d486b.js.map": "/color-tile-reveal/static/js/main.681d486b.js.map",
+    "488.63a46b76.chunk.js.map": "/color-tile-reveal/static/js/488.63a46b76.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44107bd6.css",
+    "static/js/main.681d486b.js"
+  ]
+}
